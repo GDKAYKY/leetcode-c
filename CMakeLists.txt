@@ -3,5 +3,6 @@ project(leetcode_c)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(leetcode_c main.cpp
-        forloop.cpp)
+add_executable(leetcode_c twoSum.cpp
+        forloop.cpp
+        fizzBuzz.cpp)
