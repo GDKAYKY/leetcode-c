@@ -1,8 +1,6 @@
 #include <iostream>
 #include <string>
 
-// This is made to simulate a conversation
-
 int main() {
     std::string message = "Insert message";
     std::cout << message << "\n";
